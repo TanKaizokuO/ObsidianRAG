@@ -1,10 +1,10 @@
-# NoteRAG
+# ObsidianRAG
 
 A Retrieval-Augmented Generation (RAG) system for querying your personal knowledge base using local AI models.
 
 ## Overview
 
-NoteRAG transforms your Obsidian notes into an intelligent, searchable knowledge base. It uses vector embeddings and AI-powered reranking to retrieve the most relevant information and generate accurate answers to your questions.
+ObsidianRAG transforms your Obsidian notes into an intelligent, searchable knowledge base. It uses vector embeddings and AI-powered reranking to retrieve the most relevant information and generate accurate answers to your questions.
 
 ## Features
 
